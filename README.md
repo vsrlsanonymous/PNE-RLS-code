@@ -10,6 +10,10 @@ MATLAB R2021a or later
 
 PlatEMO (if used), included in this package or referenced accordingly
 
-Notes ************************************************************************
+Notes 
+
+************************************************************************
+
 All materials will be migrated to a public project repository after acceptance.
+
 ******************************************************************************
